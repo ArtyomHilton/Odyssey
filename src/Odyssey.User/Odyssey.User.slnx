@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Odyssey.User.API/Odyssey.User.API.csproj" />
+  <Project Path="Odyssey.User.Application/Odyssey.User.Application.csproj" />
+  <Project Path="Odyssey.User.Domain/Odyssey.User.Domain.csproj" />
+  <Project Path="Odyssey.User.Infrastructure/Odyssey.User.Infrastructure.csproj" />
+</Solution>
