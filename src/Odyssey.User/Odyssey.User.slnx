@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Shared/">
+    <Project Path="../Shared/Odyssey.Shared.Domain/Odyssey.Shared.Domain.csproj" />
+  </Folder>
   <Project Path="Odyssey.User.API/Odyssey.User.API.csproj" />
   <Project Path="Odyssey.User.Application/Odyssey.User.Application.csproj" />
   <Project Path="Odyssey.User.Domain/Odyssey.User.Domain.csproj" />
